@@ -13,7 +13,7 @@ This project was created to explore the basics of real-time communication using 
 
 **Frontend:**
 - HTML  
-- CSS  
+- CSS (SCSS)
 - JavaScript (Vue.JS 3)
 
 **Backend:**
@@ -34,10 +34,10 @@ This project was created to explore the basics of real-time communication using 
 ## 📦 How to Run
 
 ```bash
-git clone https://github.com/yourusername/simple-web-chat.git
-cd simple-web-chat
+git clone https://github.com/LIAKoin/easy-chat.git
+cd easy-chat
 npm install
-node server.js
+npm run dev
 ```
 
 Then open your browser and go to:
